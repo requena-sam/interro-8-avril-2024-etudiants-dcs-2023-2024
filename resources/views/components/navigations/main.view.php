@@ -7,5 +7,7 @@
                href="/contacts">Contacts</a></li>
         <li><a class="underline text-blue-500"
                href="/projects">Projets</a></li>
+        <li><a class="underline text-blue-500"
+               href="../../users/register.view.php">Register</a></li>
     </ul>
 </nav>
